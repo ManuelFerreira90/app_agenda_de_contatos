@@ -1,4 +1,4 @@
-# App Agenda de Contatos   ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+# App Agenda de Contatos   ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 ## Descrição
 Este é um aplicativo Flutter para administrar um agenda de contatos. Ele permite que sejam criados contatos adicionando seu nome, email, número do celular e uma foto tirada no momento ou da galeria. Esse projeto foi feito com objeto de praticar e aprimorar habilidades no uso do Flutter.
